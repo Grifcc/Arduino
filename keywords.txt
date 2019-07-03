@@ -1,0 +1,5 @@
+Morse   KEYWORD1
+dot KEYWORD2
+dash    KEYWORD2
+judge   KEYWORD2
+show    KEYWORD2
