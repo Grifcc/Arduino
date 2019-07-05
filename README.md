@@ -20,4 +20,7 @@
           morse.jpg为tinkercad电路截图
     Day3：第三天作业
           Car文件夹为第三天课堂作业
-          umeric Display文件夹为第三天课下数码管作业
+          Numeric Display文件夹为第三天课下数码管作业
+    Day4：第四天作业
+          Numeric Display.ino为第四天附加作业代码文件
+                    多个数码管的显示
