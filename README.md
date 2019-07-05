@@ -13,11 +13,11 @@
               3.linux基本操作
               4.github使用
 ## 作业
-   Day2 ：第二天作业
+    Day2 ：第二天作业
           Morse文件夹为自定义库
           morse.ino为第一次文件
           morse1.ino为tinkercad仿真的代码文件
           morse.jpg为tinkercad电路截图
-   Day3：第三天作业
-         Car文件夹为第三天课堂作业
-         Numeric Display文件夹为第三天课下数码管作业
+    Day3：第三天作业
+          Car文件夹为第三天课堂作业
+          umeric Display文件夹为第三天课下数码管作业
